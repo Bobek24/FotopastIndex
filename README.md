@@ -1,0 +1,2 @@
+# FotopastIndex
+Predstaveni fotopasti
